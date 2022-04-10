@@ -1,2 +1,20 @@
-# Angular organised your project into libraries
-Topic to enhance the ability of create angular library while working with Angular 
+# Creating angular library
+
+
+## Getting started
+
+
+## Demo Application
+
+
+## Migrating logger into angular library
+
+
+## Build and Test
+
+
+
+## Get library ready for publishing on  `npm`
+
+
+## Enjoy
