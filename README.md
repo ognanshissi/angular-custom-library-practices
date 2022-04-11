@@ -14,7 +14,7 @@
 
 
 
-## Get library ready for publishing on  `npm`
+## Get library ready for publishing on  `npm` and `Github package`
 
 
 ## Enjoy
